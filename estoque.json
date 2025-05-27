@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Teclado Mec\u00c3\u00a2nico",
+        "quantidade": 25,
+        "preco": 159.9
+    },
+    {
+        "id": 3,
+        "nome": "Fone de Ouvido",
+        "quantidade": 12,
+        "preco": 100.23
+    },
+    {
+        "id": 4,
+        "nome": "Fone de Ouvido",
+        "quantidade": 14,
+        "preco": 100.23
+    }
+]
